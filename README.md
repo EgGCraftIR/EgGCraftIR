@@ -1,6 +1,6 @@
 #<div align="center">
-<h2>Hi, I'm Amir
+<h2>i identify as amir
 <img src="assets/Hand.gif" height="30px">
   <div align="center">
-    <h4 align="center"><samp> Node.js Developer - Developer Of PersianCat</samp></h4>
-    <h4 align="center"><samp> 🌪️ I’m currently working on discord development projects 🌪️</samp></h4>
+    <h4 align="center"><samp>A student and an ordinary boy</samp></h4>
+    <h4 align="center"><samp> 🌪️ They also remember me as chocolate milk 🌪️</samp></h4>
